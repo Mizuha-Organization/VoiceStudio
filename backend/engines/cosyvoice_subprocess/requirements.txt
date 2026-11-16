@@ -34,7 +34,7 @@
 # checks this file.
 conformer==0.3.2
 diffusers==0.39.0
-hydra-core==1.3.6
+hydra-core==1.3.8
 HyperPyYAML==1.2.3
 inflect==7.3.1
 librosa==0.10.2
